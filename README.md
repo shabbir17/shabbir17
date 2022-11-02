@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Engineer from Dhaka, Bangladesh</h3>
 
 ## ⚡ Skills: 
-Dart / Flutter / Javascript /  HTML / CSS / C / JAVA / Python / UI / UX
+Dart / Flutter / Javascript /  HTML / CSS / C / JAVA / Python / Android / IOS / UI / UX
 
 ## 💫 About Me:
 🔭 I’m looking for Android/ios platform to develop my skills<br>🌱 I'm currently work on Android/Ios project, web Design & UI/ UX Design<br>👯 I’m looking to collaborate on Android field<br>👨‍💻 All of my projects are available at https://github.com/shabbir17<br>📫 Reach me Email: shabbirajam@gmail.com<br>📄 Know about my specialities please enter [(https://drive.google.com/drive/folders/1_2GlBE6lxY9szQX_s-TI4R4zN6kvveZ8)]<br>⚡ Fun fact is the Logging System of Android has a method named as “wtf()” which stands for “What a Terrible Failure”.
