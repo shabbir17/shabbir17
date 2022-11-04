@@ -21,7 +21,7 @@ Dart / Flutter / Javascript /  HTML / CSS / C / JAVA / Python / Android / IOS / 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shabbir17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://visitcount.itsvg.in)
+![Profile views](https://gpvc.arturio.dev/shabbir17)  
 
 
 ## 🌱 My contribution activity : 
