@@ -24,7 +24,6 @@ Dart / Flutter / Javascript /  HTML / CSS / C / JAVA / Python / Android / IOS / 
 
 ![Profile views](https://gpvc.arturio.dev/shabbir17)  
 
-
 ## 🌱 My contribution activity : 
 ![snake gif](https://github.com/shabbir17/shabbir17/blob/output/github-contribution-grid-snake.gif)
 
