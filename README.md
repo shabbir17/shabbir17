@@ -2,6 +2,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 
+
 #### 👋 Hi, I'm Shabbir.
 
 🌱 I'm currently work on Android/Ios project, web Design & UI/ UX Design<br>👯 I’m looking to collaborate on Android field<br>👨‍💻 All of my projects are available at https://github.com/shabbir17<br>📫 Reach me Email: shabbirajam@gmail.com <br>📄 Know about my specialities please enter https://drive.google.com/file/d/1u2T9aDdQU1FwdxYbGDcuYWvvWJGF3Sgi/view?usp=share_link<br>⚡ Fun fact is the Logging System of Android has a method named as “wtf()” which stands for “What a Terrible Failure”.
