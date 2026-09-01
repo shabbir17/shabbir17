@@ -3,7 +3,7 @@
 
 #### 👋 Hi, I'm Shabbir.
 
-🌱 I'm currently work on Sales & Banking project<br>👯 I’m looking to collaborate on SQA/Automation & Android/IOS Development field<br>👨‍💻 All of my projects are available at https://github.com/shabbir17<br>📫 Reach me Email: shabbirajam@gmail.com <br>📄 Know about my specialities please enter https://drive.google.com/file/d/10cKdnDh62IdfnucYHOSJvfFTep-6J8pH/view?usp=sharing<br>⚡ Fun fact is the Logging System of Android has a method named as “wtf()” which stands for “What a Terrible Failure”.
+🌱 I'm currently work on Sales & Banking project<br>👯 I’m looking to collaborate on SQA/Automation & Android/IOS Development field<br>👨‍💻 All of my projects are available at https://github.com/shabbir17<br>📫 Reach me Email: shabbirajam@gmail.com <br>📄 Know about my specialities please enter https://drive.google.com/file/d/1VByaXr2tgMGJCcF3M67zIpOu0LZqvoxC/view?usp=sharing<br>⚡ Fun fact is the Logging System of Android has a method named as “wtf()” which stands for “What a Terrible Failure”.
 
 ## 💫 Skills: 
 Dart / Flutter / HTML / CSS / C / JAVA / Android / IOS / UI / UX
